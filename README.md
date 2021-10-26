@@ -1,7 +1,4 @@
-### Hi there 👋
-
-
-Here are some ideas to get you started:
+### Hi there 👋 Welcome to my Github. 
 
 - 🔭 I’m currently working on my master in Data Science at Stevens Institute of Technology.
 - 🌱 I’m currently learning Tensorflow & Pytorch. 
